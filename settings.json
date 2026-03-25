@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Anarchiasmpwrk.aternos.me",
     "port": 13606,
     "version": "1.21.8",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
